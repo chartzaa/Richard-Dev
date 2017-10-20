@@ -1,2 +1,2 @@
 # Richard-Dev
-For Compile SCSS to CSS 
+This is My Code For Compile SCSS to CSS 
